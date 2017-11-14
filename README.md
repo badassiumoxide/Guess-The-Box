@@ -1,2 +1,2 @@
 # Guess The Box
-A simple program where main objective is to guess which box holds the candy.
+A simple game where the objective is to guess which box holds the candy after being shuffled between three boxes.
